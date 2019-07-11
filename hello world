@@ -1,0 +1,3 @@
+import'package:material.dart';
+void main()=> runApp(MaterialApp(
+child:Text('hello world')))
